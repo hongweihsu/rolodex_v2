@@ -85,7 +85,5 @@
     "flowtype": {
       "onlyFilesWithFlowAnnotation": false
     }
-  },
-
-
+  }
 }
